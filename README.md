@@ -45,9 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/wilfredkimura/wilfredkimura/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/pizip4hqou4p98186vfj14ybb">
